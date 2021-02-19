@@ -39,7 +39,7 @@ body {
   padding-top:325px;
   color:#654321;
   letter-spacing:1.5pt;
- }
+}
 
 .description {
   padding-right: 150px;
@@ -77,7 +77,7 @@ body {
   }
   .large {
     display: none;
- }
+}
 
  .intro-block {
   font-family: 'Roboto Mono';
@@ -91,7 +91,7 @@ body {
   margin-left:-2%;
   letter-spacing:3.5pt;
 
- }  
+}  
 
  h1 {
   font-size:2rem;
@@ -110,7 +110,7 @@ body {
   padding-bottom:30px;
   color:#654321;
   letter-spacing:1.5pt;
- }
+}
 
 .description {
   padding-right: 0px;
