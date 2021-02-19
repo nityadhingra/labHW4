@@ -1,0 +1,147 @@
+body {
+  background-color: #fffde7;
+
+}
+ @media only screen and (min-width: 768px) {
+  .large {
+    display: inline-block;
+  }
+  .small {
+    display: none;
+ }
+
+ .intro-block {
+  font-family: 'Roboto Mono';
+  text-align:center;
+  position: fixed;
+  padding-top:0px;
+  padding-left:238px;
+  color:#fffde7;
+  background-color:#bcecac; 
+  width:100%; 
+  margin-left:-2%;
+  letter-spacing:3.5pt;
+
+ }	
+
+ h1 {
+  font-size:5rem;
+  font-weight:800;
+  padding-top:0px;
+  padding-right:32%;
+}
+
+ 
+.description p{
+  font-family: 'Roboto Mono';
+  font-size: 22px;
+  padding-left:0px;
+  padding-top:325px;
+  color:#654321;
+  letter-spacing:1.5pt;
+ }
+
+.description {
+  padding-right: 150px;
+  color:#654321;
+  
+}
+.try {
+  font-family: 'Roboto Mono';
+  font-size:1.5rem;
+  font-weight:600;
+  color:#654321;
+  padding-left: 190px;
+  padding-right: 950px;
+  padding-bottom:20px;
+  margin-top:-100;
+}
+
+.images {
+  flex: 33.33%;
+  padding: 5px;
+
+}
+
+.sequence {
+  display: flex;
+  padding-left: 150px;
+  padding-right:0px;
+  padding-bottom:0px;
+}
+}
+
+@media only screen and (max-width: 768px) {
+  .small {
+    display: inline-block;
+  }
+  .large {
+    display: none;
+ }
+
+ .intro-block {
+  font-family: 'Roboto Mono';
+  text-align:center;
+  position: fixed;
+  padding-top:0px;
+  padding-left:130px;
+  color:#fffde7;
+  background-color:#bcecac; 
+  width:100%; 
+  margin-left:-2%;
+  letter-spacing:3.5pt;
+
+ }  
+
+ h1 {
+  font-size:2rem;
+  font-weight:800;
+  padding-top:0px;
+  padding-right:200px;
+}
+
+ 
+.description p{
+  font-family: 'Roboto Mono';
+  font-size: 18px;
+  padding-left:-20px;
+  padding-right:20px;
+  padding-top:350px;
+  padding-bottom:30px;
+  color:#654321;
+  letter-spacing:1.5pt;
+ }
+
+.description {
+  padding-right: 0px;
+  padding-left: 50px;
+  color:#654321;
+  
+}
+.try {
+  font-family: 'Roboto Mono';
+  font-size:0.8rem;
+  font-weight:600;
+  color:#654321;
+  padding-left: 47px;
+  padding-right: 0px;
+  padding-bottom:0px;
+  padding-top:70px
+  margin-top:-100;
+}
+
+.images {
+  padding: 5px;
+
+}
+
+.sequence {
+  padding-left: 150px;
+  padding-right:0px;
+  padding-bottom:0px;
+}
+}
+
+
+
+	
